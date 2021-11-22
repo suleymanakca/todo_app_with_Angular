@@ -1,3 +1,20 @@
+
+Practices about
+- Angular Component Selectors
+- Angular Templates
+- Angular Styles
+- Angular Component Adding
+- Bootstrap ile App Design
+- Angular Lists - ngFor
+- Angular Interfaces
+- Angular Events
+- Angular Two-way Binding
+- Angular Conditional States - ngIf
+- Angular NgTemplate
+- Angular Class Binding
+- Angular Local Storage Usage
+
+
 # Todoapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
