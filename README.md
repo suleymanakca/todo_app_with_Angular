@@ -4,7 +4,7 @@ Simple ToDo App and practices about:
 - Angular Templates
 - Angular Styles
 - Angular Component Adding
-- Bootstrap ile App Design
+- Bootstrap App Design
 - Angular Lists - ngFor
 - Angular Interfaces
 - Angular Events
