@@ -1,5 +1,5 @@
 
-Practices about
+Simple ToDo App and practices about:
 - Angular Component Selectors
 - Angular Templates
 - Angular Styles
